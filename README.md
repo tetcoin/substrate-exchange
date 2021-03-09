@@ -1,6 +1,6 @@
 # tetcore exchange
 
-An rpc shim for interfacing exchanges with a [substrate](https://github.com/paritytech/substrate) node via RPC.
+An rpc shim for interfacing exchanges with a [tetcore](https://github.com/tetcoin/tetcore) node via RPC.
 
 ## License
 
